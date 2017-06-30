@@ -37,5 +37,5 @@ SlidingLayout控件的属性
 
 
 此控件是参照别人的项目提取出来的。
-[!https://github.com/HomHomLin/SlidingLayout](https://github.com/HomHomLin/SlidingLayout "SlidingLayout 控件参照地址")
+[https://github.com/HomHomLin/SlidingLayout](https://github.com/HomHomLin/SlidingLayout "SlidingLayout 控件参照地址")
 
