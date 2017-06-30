@@ -1,7 +1,7 @@
 # 自定义控件 -- 上拉下拉弹动和listiew的果冻效果
 
 * [自定义控件简介](#自定义控件简介)
-* [SlidingLayout的使用](#SlidingLayout的使用)
+* [SlidingLayout的使用](#slidinglayout的使用)
 
 
 ## 自定义控件简介

@@ -14,6 +14,6 @@ public class WebViewActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_webview);
         WebView webView = (WebView) this.findViewById(R.id.webView);
-        webView.loadUrl("https://github.com/HomHomLin");
+        webView.loadUrl("https://github.com/baiqingsong/ViewSlidingLayoutDawn");
     }
 }
